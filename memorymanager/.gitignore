@@ -1,0 +1,12 @@
+*a
+*la
+*.o
+test-*
+*.out
+tags
+*CMakeFiles
+CMakeLists
+*.cmake
+lib/lib*
+*.swp
+external_lib
